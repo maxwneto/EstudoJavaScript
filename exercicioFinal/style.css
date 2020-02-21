@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(110, 110, 219);
+    font: normal  14px Arial;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+section{
+    padding: 10px;
+    margin: auto;
+    background-color: white;
+    width: 50%;
+    border-radius: 5px;
+}
+
+#flista{
+    width: 200px;
+    margin-top: 1em;
+}
+
+#res {
+    margin-top: 1em;
+}
+
+#bfim {
+    margin-top: 1em;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    font: 20px;
+}
